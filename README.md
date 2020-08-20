@@ -2,8 +2,8 @@
 
 ---
 
-**Data Science Lab**
-**Natural Language Processing Study**
+**Data Science Lab**  
+**Natural Language Processing Study**  
 김다윗, 남승희, 민동은, 이승원, 임서하
 
 ---
